@@ -55,3 +55,12 @@ The objective of this project is to demonstrate how augmented reality can be app
 - Expand validation logic to support multi-step equipment procedures.
 - Add visual indicators for surface readiness and placement accuracy.
 - Include tutorial prompts for first-time users.
+
+## Screenshots
+
+Below are in-app mockups demonstrating the main training flow (welcome, placement, validation, completed):
+
+![Welcome screen](Assets/Documentation/Screenshots/scene1.png)
+![Placement screen](Assets/Documentation/Screenshots/scene2.png)
+![Validation screen](Assets/Documentation/Screenshots/scene3.png)
+![Completed screen](Assets/Documentation/Screenshots/scene4.png)
