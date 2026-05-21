@@ -58,9 +58,8 @@ The objective of this project is to demonstrate how augmented reality can be app
 
 ## Screenshots
 
-Below are in-app mockups demonstrating the main training flow (welcome, placement, validation, completed):
+A visual gallery of in-app mockups is available in the repository `docs/` folder and is served by GitHub Pages when enabled:
 
-![Welcome screen](Assets/Documentation/Screenshots/scene1.png)
-![Placement screen](Assets/Documentation/Screenshots/scene2.png)
-![Validation screen](Assets/Documentation/Screenshots/scene3.png)
-![Completed screen](Assets/Documentation/Screenshots/scene4.png)
+- Gallery: [docs/index.md](docs/index.md)
+
+If you prefer the images inline, they are also available at `docs/screenshots/`.
