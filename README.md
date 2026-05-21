@@ -1,8 +1,5 @@
 # AR Industrial Training Simulator
 
-
-
-
 ## Project Overview
 
 The application presents a structured AR training flow for industrial equipment handling and inspection. Users begin in a welcome screen, enter the AR session, detect a real-world surface, place a virtual equipment model, and complete a guided checklist as each task is validated. The experience is organized to be clear, focused, and suitable for presentation in a technical portfolio.
@@ -60,6 +57,6 @@ The objective of this project is to demonstrate how augmented reality can be app
 
 A visual gallery of in-app mockups is available in the repository `docs/` folder and is served by GitHub Pages when enabled:
 
-- Gallery: [docs/index.html](docs/index.html)
+- Gallery: [docs/index.md](docs/index.md)
 
 If you prefer the images inline, they are also available at `docs/screenshots/`.
