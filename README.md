@@ -60,6 +60,6 @@ The objective of this project is to demonstrate how augmented reality can be app
 
 A visual gallery of in-app mockups is available in the repository `docs/` folder and is served by GitHub Pages when enabled:
 
-- Gallery: [docs/index.md](docs/index.md)
+- Gallery: [docs/index.html](docs/index.html)
 
 If you prefer the images inline, they are also available at `docs/screenshots/`.
